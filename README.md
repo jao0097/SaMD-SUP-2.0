@@ -501,14 +501,14 @@ python reindexar_pdfs.py --pasta ./PDFs
 
 ## ⚖️ Licença
 
-[Especificar licença — MIT, Apache 2.0, Proprietária, etc.]
+[Conteúdos públicos foram usados, e trabalho feito em parceria com Fábio Ortega, do canal Doutor Ajuda]
 
 ---
 
 ## 📞 Suporte
 
 **Issues & bugs**: Abra uma issue no GitHub.
-**Contato**: [seu email ou link de contato]
+**Contato**: joaoaugusto009.7@gmail.com
 
 ---
 
@@ -523,4 +523,4 @@ python reindexar_pdfs.py --pasta ./PDFs
 
 ---
 
-**Desenvolvido com ❤️ para profissionais de saúde que usam tecnologia como ferramenta de excelência clínica.**
+
